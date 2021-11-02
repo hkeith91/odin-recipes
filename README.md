@@ -1,0 +1,3 @@
+This is my first website project created following The Odin Project.  It is meant to demonstrate the usage of html basics including: creating boilerplate code, creating logical file structures, and creating working links and images using both relative and absolute links.
+
+This project also serves to practice using Git and Github for both version control and hosting a portfolio of completed work.   
